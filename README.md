@@ -1,5 +1,5 @@
- 
-
+<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span>
+<span>(</span><span>https://raw.githubusercontent.com/JuanSanabria-SEAQ/descansos_saludables/blob/master/img/ibero.png</span><span>)</span> 
 
 Proyecto aplicado
 
